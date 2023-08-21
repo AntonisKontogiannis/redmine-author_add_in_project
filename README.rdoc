@@ -1,3 +1,4 @@
 = author_add_in_project
 
-Description goes here
+Author add in project plug-in for Redmine.
+Needs bundle exec rake redmine:plugins:migrate before run. Restart Redmine server and use it!
